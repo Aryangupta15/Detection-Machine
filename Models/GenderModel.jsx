@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import '@tensorflow/tfjs';
+// import '@tensorflow/tfjs';
 import * as tmPose from '@teachablemachine/pose';
 
 const GenderModel = () => {
