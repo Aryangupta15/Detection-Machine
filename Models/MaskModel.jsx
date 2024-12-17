@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
+import '@tensorflow/tfjs';
 import * as tmPose from '@teachablemachine/pose';
 
 const MaskModel = () => {
